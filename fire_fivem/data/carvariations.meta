@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- byBxbugs123 (10/4/2016) -->
+<!-- byBilly (2/8/18) -->
 <CVehicleModelInfoVariation>
   <variationData>
     <Item>
-      <modelName>fbi3</modelName>
+      <modelName>fire1</modelName>
       <colors>
         <Item>
           <indices content="char_array">
